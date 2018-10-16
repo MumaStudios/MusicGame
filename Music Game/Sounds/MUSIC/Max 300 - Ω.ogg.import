@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Max 300 - Ω.ogg-87b665ad095d2f2eaf16cee2b3a154cc.oggstr"
+
+[deps]
+
+source_file="res://Sounds/MUSIC/Max 300 - Ω.ogg"
+dest_files=[ "res://.import/Max 300 - Ω.ogg-87b665ad095d2f2eaf16cee2b3a154cc.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

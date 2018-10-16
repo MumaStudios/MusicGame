@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://BEATLEFT.tscn" type="PackedScene" id=1]
+
+[node name="Node2D" type="Node2D"]
+
+_sections_unfolded = [ "Pause", "Transform" ]
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="BEATLEFT" parent="." index="0" instance=ExtResource( 1 )]
+
+
